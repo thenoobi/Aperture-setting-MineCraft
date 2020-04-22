@@ -1,4 +1,4 @@
-# Aperture-setting-MineCraft
+# Cara Setting Aperture Mod MineCraft 1.12.2
 
 Untuk follow camera silahkan tambahkan
 @e[name=namaEntitynya]
